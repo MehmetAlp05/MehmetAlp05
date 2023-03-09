@@ -1,4 +1,9 @@
 ### Hi there 👋
+ I am a Jr. Software Developer and freshman student in Electrical-Electronics Engineering
+- 🔭 I’m currently working on [ankarda.net](https://ankarada.net/)
+- 🌱 I’m currently learning Flutter
+
+
 
 <!--
 **MehmetAlp05/MehmetAlp05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
