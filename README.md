@@ -1,7 +1,7 @@
 ### Hi there 👋
- I am a Jr. Software Developer and freshman student in Electrical-Electronics Engineering
-- 🔭 I’m currently working on [ankarda.net](https://ankarada.net/)
-- 🌱 I’m currently learning Flutter
+ I am a freshman student in Electrical-Electronics Engineering at METU
+- 🔭 I’m currently working on [Agile Research](https://agile-research.web.app/) and [ankarda.net](https://ankarada.net/)
+- 🌱 I’m currently learning Data Science and Electronics
 
 
 
