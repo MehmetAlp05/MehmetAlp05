@@ -1,7 +1,7 @@
 ### Hi there 👋
- I am a freshman student in Electrical-Electronics Engineering at METU
-- 🔭 I’m currently working on [Agile Research](https://agile-research.web.app/) and [ankarda.net](https://ankarada.net/)
-- 🌱 I’m currently learning Data Science and Electronics
+ I am a sophomore student in Electrical-Electronics Engineering at METU
+- 🔭 I’m currently working on UAV assisted vehicular networks
+- 🌱 I’m currently learning Matlab, Probability and Electronics
 
 
 
