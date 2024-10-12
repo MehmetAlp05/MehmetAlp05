@@ -1,5 +1,5 @@
 ### Hi there 👋
- I am a sophomore student in Electrical-Electronics Engineering at METU
+ I am a Junior student in Electrical-Electronics Engineering at METU
 - 🔭 I’m currently working on UAV assisted vehicular networks
 - 🌱 I’m currently learning Matlab, Probability and Electronics
 
