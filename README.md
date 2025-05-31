@@ -1,9 +1,9 @@
 ### Hi there 👋
- I am a Junior student in Electrical-Electronics Engineering at METU
-- 🔭 I’m currently working on UAV assisted vehicular networks
-- 🌱 I’m currently learning Matlab, Probability and Electronics
-
-
+ I am a Junior Electrical-Electronics Engineering student at METU
+- 🔭 I’m currently working on mobile edge computing
+- 🌱 I’m currently learning reinforcement learning
+- 📫 How to reach me: mehmetalpdemircioglu@gmail.com
+- ⚡ Fun fact: I am interested in embedded ai
 
 <!--
 **MehmetAlp05/MehmetAlp05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
