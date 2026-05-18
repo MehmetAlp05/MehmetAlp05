@@ -1,9 +1,8 @@
 ### Hi there 👋
- I am a Junior Electrical-Electronics Engineering student at METU
-- 🔭 I’m currently working on mobile edge computing
-- 🌱 I’m currently learning reinforcement learning
-- 📫 How to reach me: mehmetalpdemircioglu@gmail.com
-- ⚡ Fun fact: I am interested in embedded ai
+ I'm a Senior Electrical-Electronics Engineering student at METU
+- 🔭 I’m currently working at Tübitak Uzay as a researcher
+- 📡 Researching on Faster-Than-Nyquist signaling
+- 📫 Feel free to reach me: mehmetalpdemircioglu@gmail.com
 
 <!--
 **MehmetAlp05/MehmetAlp05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
